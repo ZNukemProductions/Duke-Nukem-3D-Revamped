@@ -49,7 +49,7 @@ Main Cast
   - Description: Community, News and spotlight, Content Hub.
 
 - [Outer Heaven Gaming Group](https://www.OuterHeavenGaming.com/)
-  - Description: Asest, Privete Development Group, Homebrew Community.
+  - Description: Assistance, Privete Development Group, Homebrew Community.
 
 - [Duke4.net](https://www.duke4.net/)
   - Description: Community support, modding resources, and forums.
