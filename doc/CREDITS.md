@@ -26,8 +26,11 @@
 ### Sound Designer
 
 ### Voice Actor
+Main Cast
 - ZNukem as (Duke Nukem)
-
+- TBD Genreal Graves
+- TBD Shelly Graves
+- TBD Agent Anya
 ### Game Testers
 
 ### Producer/Project Manager
