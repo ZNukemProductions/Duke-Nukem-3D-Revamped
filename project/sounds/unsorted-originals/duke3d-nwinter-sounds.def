@@ -1,0 +1,29 @@
+include duke3d.def
+include duke3d-dukevoice.def
+
+// HD sounds for Duke: Nuclear Winter
+
+ Sound { ID "410"   file "filter\Duke.NWinter\410.wav"      minpitch "0" 	 maxpitch "0"	 priority "255"	  type "20"   distance "100"  }
+ Sound { ID "411"   file "filter\Duke.NWinter\411.wav"      minpitch "0" 	 maxpitch "0"	 priority "255"	  type "20"   distance "100"  }
+ Sound { ID "412"   file "filter\Duke.NWinter\412.wav"      minpitch "0" 	 maxpitch "0"	 priority "255"	  type "20"   distance "100"  }
+ Sound { ID "413"   file "filter\Duke.NWinter\413.wav"      minpitch "0" 	 maxpitch "0"	 priority "256"	  type "20"   distance "100"  }
+ Sound { ID "414"   file "filter\Duke.NWinter\414.wav"      minpitch "0" 	 maxpitch "0"	 priority "255"	  type "20"   distance "100"  }
+ Sound { ID "415"   file "filter\Duke.NWinter\415.wav"      minpitch "0" 	 maxpitch "0"	 priority "255"	  type "20"   distance "100"  }
+ Sound { ID "416"   file "filter\Duke.NWinter\416.wav"      minpitch "0" 	 maxpitch "0"	 priority "255"	  type "20"   distance "100"  }
+ Sound { ID "417"   file "filter\Duke.NWinter\417.wav"      minpitch "0" 	 maxpitch "0"	 priority "255"	  type "20"   distance "100"  }
+ Sound { ID "418"   file "filter\Duke.NWinter\418.wav"      minpitch "0" 	 maxpitch "0"	 priority "255"	  type "20"   distance "100"  }
+ Sound { ID "419"   file "filter\Duke.NWinter\419.wav"      minpitch "0" 	 maxpitch "0"	 priority "255"	  type "20"   distance "100"  }
+ Sound { ID "421"   file "filter\Duke.NWinter\421.wav"      minpitch "0" 	 maxpitch "0"	 priority "255"	  type "20"   distance "100"  }
+ Sound { ID "422"   file "filter\Duke.NWinter\422.wav"      minpitch "0" 	 maxpitch "0"	 priority "255"	  type "20"   distance "100"  }
+ Sound { ID "423"   file "filter\Duke.NWinter\fonering.wav" minpitch "0" 	 maxpitch "0"	 priority "100"	  type "3"    distance "0"	  }
+ Sound { ID "424"   file "filter\Duke.NWinter\rippaper.wav" minpitch "0" 	 maxpitch "0"	 priority "255"	  type "20"   distance "100"  }
+ Sound { ID "425"   file "filter\Duke.NWinter\squish.wav"   minpitch "-128"  maxpitch "0"	 priority "0"	  type "2"    distance "0"	  }
+ Sound { ID "426"   file "filter\Duke.NWinter\wind2.wav"    minpitch "0" 	 maxpitch "0"	 priority "0"	  type "2"    distance "0"	  }
+ Sound { ID "427"   file "filter\Duke.NWinter\movie2.wav"   minpitch "0" 	 maxpitch "0"	 priority "0"	  type "0"    distance "0"	  }
+ Sound { ID "428"   file "filter\Duke.NWinter\movie3.wav"   minpitch "0" 	 maxpitch "0"	 priority "0"	  type "0"    distance "0"	  }
+ Sound { ID "429"   file "filter\Duke.NWinter\jingle1.wav"  minpitch "0" 	 maxpitch "0"	 priority "0"	  type "0"    distance "0"	  }
+ Sound { ID "430"   file "filter\Duke.NWinter\scream1.wav"  minpitch "0" 	 maxpitch "0"	 priority "0"	  type "0"    distance "0"	  }
+ Sound { ID "431"   file "filter\Duke.NWinter\squeek.wav"   minpitch "0" 	 maxpitch "0"	 priority "0"	  type "0"    distance "0"	  }
+ Sound { ID "432"   file "filter\Duke.NWinter\jingle2.wav"  minpitch "0" 	 maxpitch "0"	 priority "0"	  type "0"    distance "0"	  }
+ Sound { ID "433"   file "filter\Duke.NWinter\scream2.wav"  minpitch "0" 	 maxpitch "0"	 priority "0"	  type "0"    distance "0"	  }
+ Sound { ID "244"   file "filter\Duke.NWinter\FLYBY.wav"    minpitch "-256"  maxpitch "256"  priority "3"     type "0"    distance "0"	  }
